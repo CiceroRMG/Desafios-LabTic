@@ -1,0 +1,35 @@
+{
+  "artists": [
+    {"name": "Luna Ray", "genre": "Indie", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"
+    }, 
+    {"name": "Echo Park", "genre": "Indie", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Indigo Pulse", "genre": "Indie", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Wilder Minds", "genre": "Indie", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Velvet Shadows", "genre": "Indie", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Neon Dreams", "genre": "Electronic", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Electric Soul", "genre": "Electronic", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Synth Sapiens", "genre": "Electronic", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Binary Beats", "genre": "Electronic", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Circuit Breakers", "genre": "Electronic", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Rhythm & Rhymes", "genre": "Hip Hop", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Urban Legends", "genre": "Hip Hop", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Beat Pioneers", "genre": "Hip Hop", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Lyric Lords", "genre": "Hip Hop", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Flow Masters", "genre": "Hip Hop", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Soul Strings", "genre": "R&B", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Velvet Echoes", "genre": "R&B", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Harmonic Hues", "genre": "R&B", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Groove Spectrum", "genre": "R&B", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Midnight Melodies", "genre": "R&B", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Acoustic Elements", "genre": "Folk", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "The Minstrels", "genre": "Folk", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Wandering Poets", "genre": "Folk", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "String Whispers", "genre": "Folk", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Harvest Harmony", "genre": "Folk", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "The Velvet Suns", "genre": "Jazz", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Brass & Co.", "genre": "Jazz", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Midnight Quintet", "genre": "Jazz", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "The Blue Notes", "genre": "Jazz", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"},
+    {"name": "Swing Syncopators", "genre": "Jazz", "img": "https://i.pinimg.com/originals/f8/a5/fa/f8a5fa40979c071e2a68ae7406a83b6f.jpg"}
+  ]
+}
